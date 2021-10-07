@@ -4,6 +4,8 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
+import com.example.ichat.databinding.ActivitySignUpBinding;
+
 public class SignInActivity extends AppCompatActivity {
 
     @Override
