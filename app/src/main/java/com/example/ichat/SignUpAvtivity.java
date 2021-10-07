@@ -6,8 +6,9 @@ import android.os.Bundle;
 import android.renderscript.ScriptGroup;
 
 import com.example.ichat.databinding.ActivitySignUpBinding;
+import com.google.firebase.auth.FirebaseAuth;
 
-public class SignUpAvtivity<FirebaseAuth> extends AppCompatActivity {
+public class SignUpAvtivity extends AppCompatActivity {
     ActivitySignUpBinding binding;
     private FirebaseAuth auth;
 
@@ -23,6 +24,6 @@ public class SignUpAvtivity<FirebaseAuth> extends AppCompatActivity {
 
         getSupportActionBar().hide();
         auth = FirebaseAuth.getInstance();
-        
+
     }
 }
