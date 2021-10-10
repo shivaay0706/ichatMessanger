@@ -26,19 +26,20 @@
             app:srcCompat="@drawable/ic_icons8_whatsapp__1_" />
 
 
-
         <EditText
             android:id="@+id/etEmail"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
             android:layout_marginBottom="10dp"
             android:background="@color/white"
-            android:layout_marginTop="15dp"
 
             android:ems="10"
-            android:hint="Email"
+            android:hint="@Email"
             android:inputType="textEmailAddress"
-            android:padding="9dp" />
+            android:padding="9dp"
+            android:textColor="#00B0FF"
+            android:textColorHint="#1DE9B6" />
 
         <EditText
             android:id="@+id/etPassword"
@@ -48,7 +49,9 @@
             android:ems="10"
             android:hint="Password"
             android:inputType="textPassword"
-            android:padding="9dp" />
+            android:padding="9dp"
+            android:textColor="#00B0FF"
+            android:textColorHint="#00E676" />
 
         <TextView
             android:id="@+id/tvClickSignUp"
@@ -60,7 +63,7 @@
             android:text="Click For SignUp" />
 
         <Button
-            android:id="@+id/etSignIn"
+            android:id="@+id/btnSignIn"
             android:layout_width="150dp"
             android:layout_height="wrap_content"
             android:padding="15dp"
