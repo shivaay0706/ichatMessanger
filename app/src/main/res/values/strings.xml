@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">Ichat</string>
+    <string name="app_name" translatable="false">Ichat</string>
+    <string name="default_web_client_id" translatable="false" />
 </resources>

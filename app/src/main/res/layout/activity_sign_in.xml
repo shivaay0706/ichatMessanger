@@ -35,7 +35,7 @@
             android:background="@color/white"
 
             android:ems="10"
-            android:hint="@Email"
+            android:hint="Email"
             android:inputType="textEmailAddress"
             android:padding="9dp"
             android:textColor="#00B0FF"
@@ -77,7 +77,7 @@
             android:orientation="horizontal">
 
             <Button
-                android:id="@+id/btn_google"
+                android:id="@+id/btnGoogle"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginEnd="4dp"
