@@ -1,33 +1,34 @@
 {
   "project_info": {
-    "project_number": "278478218899",
-    "project_id": "ichatupdate",
-    "storage_bucket": "ichatupdate.appspot.com"
+    "project_number": "865102734378",
+    "firebase_url": "https://i-chat-mess1-default-rtdb.firebaseio.com",
+    "project_id": "i-chat-mess1",
+    "storage_bucket": "i-chat-mess1.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:278478218899:android:f1ae8d984931805cf40f66",
+        "mobilesdk_app_id": "1:865102734378:android:4675639a825b867e228f53",
         "android_client_info": {
           "package_name": "com.example.ichat"
         }
       },
       "oauth_client": [
         {
-          "client_id": "278478218899-57lko024fgjt9k9kkvkp2hi1p9esg5jf.apps.googleusercontent.com",
+          "client_id": "865102734378-1ae61rsrnd964bhf1avrlrhbrtt73s74.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBHsocb_o-aJTK8tDiZMDFcqgDN1kCLwd8"
+          "current_key": "AIzaSyA0WQq7k8F1bZ0Yi34IEKRSdE8zJELYVMU"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "278478218899-57lko024fgjt9k9kkvkp2hi1p9esg5jf.apps.googleusercontent.com",
+              "client_id": "865102734378-1ae61rsrnd964bhf1avrlrhbrtt73s74.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

@@ -1,4 +1,6 @@
 <resources>
     <string name="app_name" translatable="false">Ichat</string>
-    <string name="default_web_client_id" translatable="false" />
+    <string name="default_webclient_id" translatable="false" />
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>

@@ -74,7 +74,7 @@ public class SignUpAvtivity extends AppCompatActivity {
             }
         });
 
-        binding.tvalreadyAccount.setOnClickListener(new View.OnClickListener() {
+        binding.tvAlreadyAccount.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
                 Intent intent = new Intent(SignUpAvtivity.this , SignInActivity.class);
